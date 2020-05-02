@@ -3,6 +3,7 @@ layout: home
 title: Craig Cooper
 postsHeading: Latest posts
 archiveButtonText: See all posts
+metaTitle: 'Craig Cooper | Manchester based Shopify Expert & Ecommerce Marketing Consultant'
 metaDesc: 'Craig Cooper is a Shopify Expert. He helps merchants to solve Shopify problems.'
 socialImage: ''
 ---
