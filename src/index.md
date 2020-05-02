@@ -1,12 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Craig Cooper
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'Craig Cooper is a Shopify Expert. He helps merchants to solve Shopify problems.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+I help ecommerce businesses to understand their customers and define their position in the market. Based in Manchester, England and working with clients worldwide.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Find me on [Twitter](https://twitter.com/craigcooperxyz), [LinkedIn](https://www.linkedin.com/in/craigcooperxyz/) and at [Archer Cooper](htttps://www.archercooper.co.uk) (my consulting agency).
