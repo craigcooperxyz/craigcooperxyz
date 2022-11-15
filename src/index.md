@@ -10,4 +10,4 @@ socialImage: ''
 
 I help ecommerce businesses to understand their customers and define their position in the market. Based in Manchester, England and working with clients worldwide.
 
-Find me on [Twitter](https://twitter.com/craigcooperxyz), [LinkedIn](https://www.linkedin.com/in/craigcooperxyz/) and at [Archer Cooper](htttps://www.archercooper.co.uk) (my consulting agency).
+Find me on [Twitter](https://twitter.com/craigcooperxyz), [LinkedIn](https://www.linkedin.com/in/craigcooperxyz/) and at [Archer Cooper](https://www.archercooper.co.uk) (my consulting agency).
